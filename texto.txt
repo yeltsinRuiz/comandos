@@ -1,0 +1,15 @@
+
+a = para insertar texto
+x = para eliminar carcter
+:wq = guardar y salir
+
+
+
+
+
+
+
+
+
+
+
